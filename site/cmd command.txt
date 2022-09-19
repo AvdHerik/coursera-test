@@ -1,0 +1,23 @@
+Clone (from GitHub to local): git clone https://github.com/AvdHerik/coursera-test.git
+
+Go into the folder: cd "folder name"
+
+See what is inside the folder: dir
+
+Status van Git local and GitHub: git status
+
+Make new folder in the directory: mkdir "folder name"
+
+Go up one directory: cd ..
+
+To see changes and upload to GitHub go to the main folder
+
+Preparing new files to be commited: git add . (or specific folder/file)
+
+Commit new files before pushing to GitHub: git commit -m "any message to include with the upload"
+
+Sync local files with the files on GitHub: git push
+
+
+
+Browser sync: browser-sync start --server --directory --files "*"
