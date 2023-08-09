@@ -20,4 +20,5 @@ Sync local files with the files on GitHub: git push
 
 
 
+First go to the folder where the index.html file is saved e.g. site/
 Browser sync: browser-sync start --server --directory --files "*"
